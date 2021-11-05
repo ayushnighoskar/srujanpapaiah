@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Science
+- 🔭 I’m currently working on United Currency Project
+- - 🌱 I’m currently learning Machine Learning and Data Science
+- - 📫 How to reach me: srujanpapaiahgari@gmail.com
 <!--
 **srujanpapaiah/srujanpapaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
