@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on United Currency Project
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me: srujanpapaiahgari@gmail.com
+- 💬 Ask me about: Web Development, Blockchain, Finance, Space, History, Geopolitics.
+- ⚡ Fun fact: Meaning of my name **Srujan** is *Creative*
 <!--
 **srujanpapaiah/srujanpapaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
