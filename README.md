@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on United Currency Project
+- 🔭 I’m currently working on Portfolio Project 👉🏼 srujanpapaiahgari.com
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me: srujanpapaiahgari@gmail.com
 - 💬 Ask me about: Web Development, Blockchain, Finance, Space, History, Geopolitics.
