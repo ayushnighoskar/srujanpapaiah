@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Portfolio Project  👉🏼 [Click here](https://srujanpapaiahgari.com)
+- 🔭 I’m currently working on my [Portfolio Project](https://srujanpapaiahgari.com)
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me: srujanpapaiahgari@gmail.com
 - 💬 Ask me about: Web Development, Blockchain, Finance, Space, History, Geopolitics.
