@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my [Portfolio Project](https://srujanpapaiahgari.com)
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me: srujanpapaiahgari@gmail.com
 - 💬 Ask me about: Web Development, Blockchain, Finance, Space, History, Geopolitics.
 - ⚡ Fun fact: Meaning of my name **Srujan** is *Creative*
