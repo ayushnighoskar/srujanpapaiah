@@ -74,3 +74,12 @@ Here are some ideas to get you started:
 
 ![Srujans's GitHub stats](https://github-readme-stats.vercel.app/api?username=srujanpapaiah&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srujanpapaiah&layout=compact)](https://github.com/srujanpapaiah/github-readme-stats)
+
+---
+
+[![Srujan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=srujan)](https://github.com/srujanpapaiah/github-readme-stats)
+
