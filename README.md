@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://srujanpapaiahgari.com/blog)
+➡️ [more blog posts...](https://srujanpapaiahgari.hashnode.dev)
 
 ---
 
