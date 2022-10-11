@@ -26,9 +26,12 @@ Here are some ideas to get you started:
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://srujanpapaiahgari.com#gh-light-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](https://srujanpapaiahgari.com#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![twitter](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/srujanpapaiah#gh-light-mode-only)
+[![twitter](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://twitter.com/srujanpapaiah#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Linkedin](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://linkedin.com/in/srujanpapaiahgari#gh-light-mode-only)
+[![Linkedin](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/srujanpapaiahgari#gh-dark-mode-only)
+&nbsp;&nbsp;
 
-[<img align="left" alt="srujanpapaiahgari.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://srujanpapaiahgari.com)
-[<img align="left" alt="srujanpapaiahgari.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/srujanpapaiah)
-[<img align="left" alt="srujanpapaiahgari.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Linkedin.svg" />](https://linkedin.com/in/srujanpapaiahgari)
 
 <br />
