@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://srujanpapaiahgari.com/skills)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://srujanpapaiahgari.com/skills)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://srujanpapaiahgari.com/skills)
+[<img align="left" alt="Express.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" style="padding-right:10px;" />](https://srujanpapaiahgari.com/skills)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://srujanpapaiahgari.com/skills)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://srujanpapaiahgari.com/skills)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://srujanpapaiahgari.com/skills)
