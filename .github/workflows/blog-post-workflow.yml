@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "srujanpapaiah/action-hashnode-blog@main"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: "srujanpapaiahgari" # Hashnode Username
           BLOG_URL: "https://srujanpapaiahgari.hashnode.dev/" # Blog URL
