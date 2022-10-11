@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://srujanpapaiahgari.com#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](https://srujanpapaiahgari.com#gh-dark-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://srujanpapaiahgari.com)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](https://srujanpapaiahgari.com)
 &nbsp;&nbsp;
-[![twitter](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/srujanpapaiah#gh-light-mode-only)
-[![twitter](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://twitter.com/srujanpapaiah#gh-dark-mode-only)
+[![twitter](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/srujanpapaiah)
+[![twitter](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://twitter.com/srujanpapaiah)
 &nbsp;&nbsp;
-[![Linkedin](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://linkedin.com/in/srujanpapaiahgari#gh-light-mode-only)
-[![Linkedin](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/srujanpapaiahgari#gh-dark-mode-only)
+[![Linkedin](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://linkedin.com/in/srujanpapaiahgari)
+[![Linkedin](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/srujanpapaiahgari)
 &nbsp;&nbsp;
 
 
