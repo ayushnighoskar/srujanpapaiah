@@ -61,12 +61,8 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Checkout the 4 interview-related topics in JavaScript](https://srujanpapaiahgari.hashnode.dev/checkout-the-4-interview-related-topics-in-javascript)
-- [CSS Position](https://srujanpapaiahgari.hashnode.dev/css-position)
-- [CSS Selectors](https://srujanpapaiahgari.hashnode.dev/css-selectors)
-
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 ➡️ [more blog posts...](https://srujanpapaiahgari.hashnode.dev)
 
