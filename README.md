@@ -25,21 +25,6 @@ Here are some ideas to get you started:
 
 ---
 
-### Connect with me
-
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://srujanpapaiahgari.com)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](https://srujanpapaiahgari.com)
-&nbsp;&nbsp;
-[![twitter](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/srujanpapaiah)
-[![twitter](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://twitter.com/srujanpapaiah)
-&nbsp;&nbsp;
-[![Linkedin](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://linkedin.com/in/srujanpapaiahgari)
-[![Linkedin](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/srujanpapaiahgari)
-&nbsp;&nbsp;
-
-
----
-
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://srujanpapaiahgari.com/skills)
