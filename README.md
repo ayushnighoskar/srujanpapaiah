@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1> Hi 👋 I'm [Srujan Papaiahgari](https://srujanpapaiahgari.com)</h1>
+  <h1> Hi 👋 I'm Srujan Papaiahgari</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/srujanpapaiahgari/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,7 +12,7 @@
 </div>
 
 ### 💻 &nbsp; About Me :
-## I'm a Fullstack developer, Author and Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- I'm a Fullstack developer, Author and Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m currently working on [JavaScript Projects](https://srujanpapaiahgari.com/projects)
 - 🌱 I’m currently learning Full Stack Web Development
