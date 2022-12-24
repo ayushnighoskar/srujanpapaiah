@@ -1,14 +1,14 @@
 <div id="header" align="center">
-  <h1> Hi 👋 I'm Sudheer Jonna.</h1>
+  <h1> Hi 👋 I'm Srujan Papaiahgari.</h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sudheer-jonna-b9009142/">
+    <a href="https://www.linkedin.com/in/srujanpapaiahgari/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/SudheerJonna">
+    <a href="https://twitter.com/srujanpapaiah">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=sudheerj&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=srujanpapaiah&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### Hi there, I'm [Srujan Papaiahgari](https://srujanpapaiahgari.com) 👋. I'm a Fullstack developer, Author and Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
