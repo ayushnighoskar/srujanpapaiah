@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+- [Flex and Grid](https://srujanpapaiahgari.hashnode.dev//flex-and-grid)
 - [Checkout the 4 interview-related topics in JavaScript](https://srujanpapaiahgari.hashnode.dev//checkout-the-4-interview-related-topics-in-javascript)
 - [CSS Position](https://srujanpapaiahgari.hashnode.dev//css-position)
 - [CSS Selectors](https://srujanpapaiahgari.hashnode.dev//css-selectors)
